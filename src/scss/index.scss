@@ -1,0 +1,59 @@
+@import "reset";
+
+@font-face {
+    font-family: "Gotham Pro Regular";
+    src: url("/src/fonts/GothamPro.ttf");
+    src: url("/src/fonts/GothamPro.ttf") format("ttf"),
+        url("/src/fonts/GothamPro.woff") format("woff"),
+        url("/src/fonts/GothamPro.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Gotham Pro Bold";
+    src: url("/src/fonts/GothamPro-Bold.ttf");
+    src: url("/src/fonts/GothamPro-Bold.ttf") format("ttf"),
+        url("/src/fonts/GothamPro-Bold.woff") format("woff"),
+        url("/src/fonts/GothamPro-Bold.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Gotham Pro Medium";
+    src: url("/src/fonts/GothamPro-Medium.ttf");
+    src: url("/src/fonts/GothamPro-Medium.ttf") format("ttf"),
+        url("/src/fonts/GothamPro-Medium.woff") format("woff"),
+        url("/src/fonts/GothamPro-Medium.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "GothamPro-Black";
+    src: url("/src/fonts/GothamPro-Black.ttf");
+    src: url("/src/fonts/GothamPro-Black.ttf") format("ttf"),
+        url("/src/fonts/GothamPro-Black.woff") format("woff"),
+        url("/src/fonts/GothamPro-Black.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: "SuisseIntl-Medium";
+    src: url("/src/fonts/SuisseIntl-Medium.ttf");
+    src: url("/src/fonts/SuisseIntl-Medium.ttf") format("ttf"),
+        url("/src/fonts/SuisseIntl-Medium.woff") format("woff"),
+        url("/src/fonts/SuisseIntl-Medium.woff2") format("woff2");
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@media screen and (max-width: 1200px) {}
+
+@media screen and (max-width: 991px) {}
+
+@media screen and (max-width: 768px) {}
+
+@media screen and (max-width: 425px) {}
